@@ -1,0 +1,22 @@
+write java program Relation operators
+class Relational
+{
+public static void main (String args[])
+{
+//create variables
+int a=7, b=89;
+System.out.print("a value is:"+a+"and b value is"+b);
+// == operator
+System.out.println(a==b); // false
+// ! operator
+System.out.println(a!=b); // true
+// > operator
+System.out.println(a>b); // false
+// < operator
+System.out.println(a<b); // true
+//>= operator 
+   System.out.println(a>=b);//false 
+   } 
+} 
+ 
+
