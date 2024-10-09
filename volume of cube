@@ -1,0 +1,11 @@
+write a program volume of cube
+class Cube 
+{ 
+public Static void main (String args[])
+{
+int a=30;
+int volume;
+volume = a*a*a ;
+System.out.println("volume of cube:"+volume);
+}
+}
