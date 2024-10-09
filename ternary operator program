@@ -1,0 +1,11 @@
+write java program ternary operator
+class Ternary
+{
+public static void main (String args[])
+{
+int feb days=28;
+string res;
+res=(febdays==28)?"not a leap year":"leap year";
+System.out.println(res);
+}
+}
