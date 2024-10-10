@@ -1,0 +1,25 @@
+class student
+{
+int sid;
+string name;
+student()
+{
+sid=123;
+name="john";
+}
+void disolay() // method
+{
+  System.out.println("student id:+sid);
+system.out.println("student name:"+name);
+}
+}
+class demo12
+{
+public Static void main(String args[])
+{
+  student s= new student();
+s. display();
+student s1= new student();
+s1.display();
+}
+}
