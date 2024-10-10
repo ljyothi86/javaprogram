@@ -1,0 +1,32 @@
+class student
+{
+  int sid;  // instance variable
+  string name;
+  student() // default
+  {
+    sid =12;
+    name="john";
+    }
+  student(int n string str)
+  {
+    sid = n;
+    name= str;
+    }
+  void display() // method
+  {
+    System.out.println("student id:"+sid);
+    System.out.println("student name:"+ name);
+    }
+  }
+ class demo 12
+{
+  public static void main(string args[])
+  {
+    s. display()
+    student s1=new student
+    s1.display();
+    }
+  }
+
+                       
+    
